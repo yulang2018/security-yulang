@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/security.iml" filepath="$PROJECT_DIR$/.idea/security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security_yulang/security_yulang.iml" filepath="$PROJECT_DIR$/security_yulang/security_yulang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security_yulang/security-app/securityapp.iml" filepath="$PROJECT_DIR$/security_yulang/security-app/securityapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security_yulang/security-browser/securitybrowser.iml" filepath="$PROJECT_DIR$/security_yulang/security-browser/securitybrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security_yulang/security-core/securitycore.iml" filepath="$PROJECT_DIR$/security_yulang/security-core/securitycore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security_yulang/security-demo/securitydemo.iml" filepath="$PROJECT_DIR$/security_yulang/security-demo/securitydemo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="securityapp" />
+        <module name="securitybrowser" />
+        <module name="securitycore" />
+        <module name="securitydemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="security_yulang" target="1.8" />
+      <module name="securityapp" target="1.8" />
+      <module name="securitybrowser" target="1.8" />
+      <module name="securitycore" target="1.8" />
+      <module name="securitydemo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
